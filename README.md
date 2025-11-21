@@ -209,10 +209,6 @@ curl -X DELETE "https://localhost:5001/api/products/{id}"
 dotnet build
 ```
 
-### Run Tests (if available)
-```bash
-dotnet test
-```
 
 ## License
 
