@@ -202,18 +202,10 @@ curl -X PUT "https://localhost:5001/api/products/{id}" \
 curl -X DELETE "https://localhost:5001/api/products/{id}"
 ```
 
-## Development
-
 ### Build the Project
 ```bash
 dotnet build
 ```
-
-
-## License
-
-This project is open source and available under the MIT License.
-
 ## Author
 
 Created by aboud426
